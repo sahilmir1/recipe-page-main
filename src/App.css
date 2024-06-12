@@ -1,0 +1,8 @@
+.custom-list {
+  list-style-position: inside;
+}
+
+.custom-list-item span {
+  position: relative;
+  left: 20px;
+}
